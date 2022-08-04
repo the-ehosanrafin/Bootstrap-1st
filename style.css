@@ -1,0 +1,10 @@
+#navbar {
+  z-index: 100;
+}
+#navbar .logo {
+  width: 150px;
+}
+
+#product .card {
+  background: rgba(0, 0, 0, 0.13);
+}
